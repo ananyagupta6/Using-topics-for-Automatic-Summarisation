@@ -23,7 +23,7 @@ Kavita Ganesan, ChengXiang Zhai, and Jiawei Han, "Opinosis: A Graph Based Approa
 
 •	The scores indicate that the result was better using LDA topics, compared to without using topics.
 
-## Hence, the summarisation system with LDA topics performed somewhat better than without using any topics.
+Hence, the summarisation system with LDA topics performed somewhat better than without using any topics.
 
 
 
